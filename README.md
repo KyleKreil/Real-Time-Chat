@@ -3,14 +3,14 @@
 ## Installation
 
   ```sh
-   git clone https://github.com/KyleKreil/Real-Time-Chat.git
-   ```
-   ```sh
-   npm install
-   ```
-   ```sh
-   node server.js
-   ```
+  git clone https://github.com/KyleKreil/Real-Time-Chat.git
+  ```
+  ```sh
+  npm install
+  ```
+  ```sh
+  node server.js
+  ```
 navigate to [localhost](http://localhost:3000)
 
 ## Q/A
