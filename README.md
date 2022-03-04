@@ -11,6 +11,7 @@
    ```sh
    node server.js
    ```
+navigate to [localhost](localhost:3000)
 
 ## Q/A
 How would you deploy this application?
